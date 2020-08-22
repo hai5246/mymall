@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mymall" />
+        <module name="mymall-content-ms" />
+        <module name="mymall-manager-ms" />
+        <module name="mymall-mapper" />
+        <module name="mymall-page-ms" />
+        <module name="mymall-pojo" />
+        <module name="mymall-search-elasticsearch" />
+        <module name="mymall-search-ms" />
+        <module name="mymall-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mymall" target="1.5" />
+      <module name="mymall (1) (com.zhc.mymall)" target="1.8" />
+      <module name="mymall-content-ms" target="1.8" />
+      <module name="mymall-manager-ms" target="1.8" />
+      <module name="mymall-mapper" target="1.8" />
+      <module name="mymall-page-ms" target="1.8" />
+      <module name="mymall-pojo" target="1.8" />
+      <module name="mymall-search-elasticsearch" target="1.8" />
+      <module name="mymall-search-ms" target="1.8" />
+      <module name="mymall-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mymall-content-ms" options="-parameters" />
+      <module name="mymall-manager-ms" options="-parameters" />
+      <module name="mymall-mapper" options="-parameters" />
+      <module name="mymall-page-ms" options="-parameters" />
+      <module name="mymall-pojo" options="-parameters" />
+      <module name="mymall-search-elasticsearch" options="-parameters" />
+      <module name="mymall-search-ms" options="-parameters" />
+      <module name="mymall-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

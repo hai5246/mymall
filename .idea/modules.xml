@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mymall.iml" filepath="$PROJECT_DIR$/.idea/mymall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymall/mymall (1) (com.zhc.mymall).iml" filepath="$PROJECT_DIR$/mymall/mymall (1) (com.zhc.mymall).iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymall/mymall-content-ms/mymall-content-ms.iml" filepath="$PROJECT_DIR$/mymall/mymall-content-ms/mymall-content-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymall/mymall-manager-ms/mymall-manager-ms.iml" filepath="$PROJECT_DIR$/mymall/mymall-manager-ms/mymall-manager-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymall/mymall-mapper/mymall-mapper.iml" filepath="$PROJECT_DIR$/mymall/mymall-mapper/mymall-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymall/mymall-page-ms/mymall-page-ms.iml" filepath="$PROJECT_DIR$/mymall/mymall-page-ms/mymall-page-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymall/mymall-pojo/mymall-pojo.iml" filepath="$PROJECT_DIR$/mymall/mymall-pojo/mymall-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymall/mymall-search-elasticsearch/mymall-search-elasticsearch.iml" filepath="$PROJECT_DIR$/mymall/mymall-search-elasticsearch/mymall-search-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymall/mymall-search-ms/mymall-search-ms.iml" filepath="$PROJECT_DIR$/mymall/mymall-search-ms/mymall-search-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymall/mymall-zuul/mymall-zuul.iml" filepath="$PROJECT_DIR$/mymall/mymall-zuul/mymall-zuul.iml" />
+    </modules>
+  </component>
+</project>
