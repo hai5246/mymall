@@ -1,0 +1,26 @@
+server:
+  port: 8875
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+spring:
+  application: 
+    name: 'mymall-page-ms'
+  datasource:
+    username: root
+    password: 123456
+    url: 'jdbc:mysql://localhost:3306/shoppingdb?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai'
+  activemq:
+    broker-url: tcp://127.0.0.1:61616
+    user: admin
+    password: admin
+mybatis:
+  type-aliases-package: com.zhc.mymall.pojo
+  mapper-locations: 'classpath*:com/**/*Mapper.xml'
+
+pagehelper:
+  helper-dialect: mysql
+  reasonable: true
+
+ 

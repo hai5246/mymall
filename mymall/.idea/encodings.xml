@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mymall-content-ms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mymall-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mymall-manager-ms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mymall-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mymall-page-ms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mymall-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mymall-search-elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mymall-search-ms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mymall-zuul" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
